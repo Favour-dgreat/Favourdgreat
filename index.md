@@ -1,5 +1,8 @@
 ## Welcome to My Profile
 
+![GitHub Logo](IMG_20200805_171314.jpg)
+Format: ![My Picture](url)
+
 Hi Everyone, I am Adeshina Favour Adekunle, and I am an awesome guy because I love building solutions. 
 # I am a skilled JavaScript Developer, Blockchain Enthusiast (member of Aeternity Ekiti), a Graphics Designer, trainer at Dgreat WebSolutions and the Founder/C.E.O of Dgreat CyberWorld - A tech startup, that you pay to be in-cahrge of your social media plataforms, as an individual or an organisation. We also run paid Facebook, Instagram and Google adverst for businesses and organisations. 
 # I also have little knowledge of Python and Microsoft Visual Basic. 
