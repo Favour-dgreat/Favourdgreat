@@ -1,37 +1,13 @@
 ## Welcome to My Profile
 
-You can use the [editor on GitHub](https://github.com/Favour-dgreat/Favourdgreat/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi Everyone, I am Adeshina Favour Adekunle, and I am an awesome guy because I love building solutions. 
+# I am a skilled JavaScript Developer, Blockchain Enthusiast (member of Aeternity Ekiti), a Graphics Designer, trainer at Dgreat WebSolutions and the Founder/C.E.O of Dgreat CyberWorld - A tech startup, that you pay to be in-cahrge of your social media plataforms, as an individual or an organisation. We also run paid Facebook, Instagram and Google adverst for businesses and organisations. 
+# I also have little knowledge of Python and Microsoft Visual Basic. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# I am a Computer Science Student at Ekiti State University, Ado-Ekiti, Ekiti State, Nigeria, and an aspiring Developer Student Club Lead for DSC EKSU chapter. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Favour-dgreat/Favourdgreat/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**My Best Colour is Blue and my best food is Yam Poridge 
+**Feel free to check out my Social Media Platforms:
+- [link](https://github.com/Favour-dgreat)
+- [link](https://facebook.com/favourdgreat.adeshina)
+- [link](https://twitter.com/favour_adeshina)
