@@ -6,8 +6,8 @@ Hi Everyone, I am Adeshina Favour Adekunle, and I am an awesome guy because I lo
 
 # I am a Computer Science Student at Ekiti State University, Ado-Ekiti, Ekiti State, Nigeria, and an aspiring Developer Student Club Lead for DSC EKSU chapter. 
 
-**My Best Colour is Blue and my best food is Yam Poridge 
-**Feel free to check out my Social Media Platforms:
-- [link](https://github.com/Favour-dgreat)
+**My Best Colour is Blue and my best food is Yam Poridge** 
+**Feel free to check out my Social Media Platforms:**
+- [Facebook](https://github.com/Favour-dgreat)
 - [link](https://facebook.com/favourdgreat.adeshina)
 - [link](https://twitter.com/favour_adeshina)
